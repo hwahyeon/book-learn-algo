@@ -1,20 +1,20 @@
-# 똑똑한 코드 작성을 위한 실전 알고리즘 (Learning Algorithms)
+# 똑똑한 코드 작성을 위한 실전 알고리즘
 
-* 책을 읽으며 공부한 내용을 요약하였음.  
-* 예제는 Python3을 사용하여 실습하였음.
-  
+`Algorithm` `Data structure` `Python`
 
-### 정보
-* 저자 : George Heineman
-* 공개 코드 : https://github.com/heineman/LearningAlgorithms
+## 개요
 
+이 저장소는 **똑똑한 코드 작성을 위한 실전 알고리즘**의 학습 내용이 정리되어 있습니다.
 
-### 목적
-* 알고리듬 숙달
+<img src="./assets/cover.jpg" alt="Cover" width="200">
 
+> 조지 하이네만
 
-### 목차
-|Chapter|Name|Remarks|
+## 학습 목표
+- 알고리듬 숙달
+
+### 학습 내용
+|No|목차|핵심 학습 내용|
 |---|---|---|
 |01|[문제 해결]()||
 |02|[알고리즘 분석]()||
@@ -24,3 +24,6 @@
 |06|[이진 트리]()||
 |07|[그래프]()||
 |08|[정리]()||
+
+## 참고 자료
+[공개 코드](https://github.com/heineman/LearningAlgorithms)
